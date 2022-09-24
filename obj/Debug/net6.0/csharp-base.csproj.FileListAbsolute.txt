@@ -1,0 +1,15 @@
+D:\.mf\mpj\base-project\csharp-base\bin\Debug\net6.0\csharp-base.exe
+D:\.mf\mpj\base-project\csharp-base\bin\Debug\net6.0\csharp-base.deps.json
+D:\.mf\mpj\base-project\csharp-base\bin\Debug\net6.0\csharp-base.runtimeconfig.json
+D:\.mf\mpj\base-project\csharp-base\bin\Debug\net6.0\csharp-base.dll
+D:\.mf\mpj\base-project\csharp-base\bin\Debug\net6.0\csharp-base.pdb
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.csproj.AssemblyReference.cache
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.GeneratedMSBuildEditorConfig.editorconfig
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.AssemblyInfoInputs.cache
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.AssemblyInfo.cs
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.csproj.CoreCompileInputs.cache
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.dll
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\refint\csharp-base.dll
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.pdb
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\csharp-base.genruntimeconfig.cache
+D:\.mf\mpj\base-project\csharp-base\obj\Debug\net6.0\ref\csharp-base.dll
